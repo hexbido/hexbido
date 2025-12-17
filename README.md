@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://capsulerender.vercel.app/api?type=slice&theme=gradient&color1=FF6B35&text=Software+Engineer+%7C+Front-End+Developer&animation=wave" alt="Header" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=slice&theme=gradient&color=gradient&height=200&text=Software+Engineer+%7C+Front-End+Developer&animation=wave&animate=true" alt="Header" width="100%" />
 </div>
 
 # Yo, I'm Abd Al-Rahman M. Zaki!
