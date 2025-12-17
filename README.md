@@ -1,5 +1,9 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=slice&section=header&height=250&color=gradient&text=Think%20Outside%20The%20Box!&desc=Software%20Engineer%20-%20Front-End%20Developer&fontColor=ffffff&fontSize=40&descSize=20&descAlignY=55" alt="Think Outside The Box Header" width="100%" />
+  <img 
+    src="https://capsule-render.vercel.app/api?type=slice&section=header&height=250&color=0:d900ff,100:00bfff&text=Think%20Outside%20The%20Box!&desc=Software%20Engineer%20-%20Front-End%20Developer&fontColor=ffffff&fontSize=40&descSize=20&descAlignY=55&animation=fadeIn"
+    alt="Think Outside The Box Header" 
+    width="100%" 
+  />
 </div>
 
 # Yo, I'm Abd Al-Rahman M. Zaki!
