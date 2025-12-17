@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=slice&theme=gradient&color=gradient&height=200&animation=wave&animate=true&text=Think+Outside+The+Box!&desc=Software+Engineer+-+Front-End+Developer" alt="Think Outside The Box" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=slice&theme=gradient&color=gradient&height=200&animation=wave&animate=true&rotate=-30&text=Think+Outside+The+Box!&desc=Software+Engineer+-+Front-End+Developer" alt="Think Outside The Box" width="100%" />
 </div>
 
 # Yo, I'm Abd Al-Rahman M. Zaki!
