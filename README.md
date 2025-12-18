@@ -1,6 +1,6 @@
 <div align="center">
   <img 
-    src="https://capsule-render.vercel.app/api?type=slice&section=header&height=250&color=f2004a&text=Think%20Outside%20The%20Box!&desc=Think%20More%20Freely.&fontColor=ffffff&fontSize=40&descSize=20&fontAlignY=45&descAlignY=58&animation=twinkling&rotate=16.5"
+    src="https://capsule-render.vercel.app/api?type=slice&section=header&height=250&color=f2004a&text=Think%20Outside%20The%20Box!&desc=Think%20More%20Freely.&fontColor=ffffff&fontSize=35&descSize=20&fontAlignY=45&descAlignY=58&animation=twinkling&rotate=16.5&fontstyle=italic"
     alt="Think Outside The Box Header" 
     width="100%" 
   />
