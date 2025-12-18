@@ -4,12 +4,13 @@
     alt="Think Outside The Box Header" 
     width="100%" 
   />
+  <h1 align="center">Yo, I'm Abd Al-Rahman M. Zaki</h1>
+  
+  <h3>Software Engineer | Front-End Developer</h3>
+
+  <p align="center">
+    <i>My Journey Focuses On Software Engineering, Specifically Front-End Development and Full-stack Applications & Websites, And Head Towards MERN Stack, Always Eager To Learn And Take On New Challenges In The Tech World!</i>
+  </p>
 </div>
-
-# Yo, I'm Abd Al-Rahman M. Zaki!
-
-**Software Engineer | Front-End Developer**
-
-*My Journey Focuses On Software Engineering, Specifically Front-End Development and Full-stack Applications & Websites, And Head Towards MERN Stack, Always Eager To Learn And Take On New Challenges In The Tech World!*
 
 ---
