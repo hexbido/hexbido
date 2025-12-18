@@ -4,8 +4,15 @@
     alt="Think Outside The Box Header" 
     width="100%" 
   />
-  <h1 align="center">Yo, I'm Abd Al-Rahman M. Zaki</h1>
-  
+  <h1 align="center">
+  Yo, I'm Abd Al-Rahman M. Zaki 
+  <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
+</h1>
+
+  <div align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=F2004A&center=true&vCenter=true&width=435&lines=Welcome+To+My+World;Muslim;Egyptian;Software+Engineer;Front-End+Developer;BIS+Student;Gamer;Hacker;Unusual+Miraculous;BOO!" alt="Typing SVG" />
+</div>
+
   <h3>Software Engineer | Front-End Developer</h3>
 
   <p align="center">
@@ -32,7 +39,55 @@
 
 -----
 
-<!-- Connect With Me -->
+<!--  Browser & GenAI & OS/IDEs -->
+<h2 align="center">
+  Browser & GenAI & OS/IDEs <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Laptop.png" alt="Laptop" width="40" height="40" />
+</h2>
+
+<div align="center">
+
+  <img src="https://img.shields.io/badge/Zen-FF1B2D?style=for-the-badge&logo=zenbrowser&logoColor=white" />
+  <img src="https://img.shields.io/badge/Arc-000000?style=for-the-badge&logo=arc&logoColor=white" />
+  <img src="https://img.shields.io/badge/Brave-FB542B?style=for-the-badge&logo=Brave&logoColor=white" />
+  <img src="https://img.shields.io/badge/Google_chrome-4285F4?style=for-the-badge&logo=Google-chrome&logoColor=white" />
+
+  <br />
+
+  <img src="https://img.shields.io/badge/ChatGPT-74aa9c?style=for-the-badge&logo=openai&logoColor=white" />
+  <img src="https://img.shields.io/badge/Claude-D97757?style=for-the-badge&logo=claude&logoColor=white" />
+  <img src="https://img.shields.io/badge/Google%20Gemini-8E75B2?style=for-the-badge&logo=googlegemini&logoColor=white" />
+  <img src="https://img.shields.io/badge/Perplexity-1FB8CD?style=for-the-badge&logo=perplexity&logoColor=white" />
+  <img src="https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white" />
+  <img src="https://img.shields.io/badge/Xiaomi-FF6900?style=for-the-badge&logo=xiaomi&logoColor=white" />
+  <img src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white" />
+  <img src="https://img.shields.io/badge/lenovo-E2231A?style=for-the-badge&logo=lenovo&logoColor=white" />
+
+  <br />
+  
+  <img src="https://img.shields.io/badge/VSCode-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white" />
+  <img src="https://img.shields.io/badge/Replit-DD1200?style=for-the-badge&logo=Replit&logoColor=white" />
+  <img src="https://img.shields.io/badge/Miro-F2CA02?style=for-the-badge&logo=miro&logoColor=black" />
+  <img src="https://img.shields.io/badge/pypi-ececec?style=for-the-badge&logo=pypi&logoColor=1f73b7" />
+
+</div>
+
+-----
+
+<h2 align="center">
+  Skills & X-Topics <sub><img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="40" height="40" /></sub>
+</h2>
+
+<div align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://go-skill-icons.vercel.app/api/icons?i=py,aiscript,actix,cairo,replit,git,github,gitbash,powershell,windows,vscode,cursor,devto,chrome" />
+    <br />
+    <img src="https://go-skill-icons.vercel.app/api/icons?i=edge,brave,arc,zen,chatgpt,claude,deepseek,gemini,grok,obs,miro,youtube,reddit" />
+  </a>
+</div>
+
+-----
+
+<!--Connect With Me -->
 <h3 align="center">Connect With Me 📫</h3>
 <p align="center">
   <!-- LinkedIn -->
@@ -55,3 +110,6 @@
     <img src="https://skillicons.dev/icons?i=gmail&theme=light" height="50" alt="gmail logo" />
   </a>
 </p>
+
+-----
+<!-- My Screen & My Customizations -->
