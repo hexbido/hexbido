@@ -18,16 +18,16 @@
 <!-- GitHub Profile Stats -->
 <p align="center">
   <!-- Profile Views -->
-  <img src="https://komarev.com/ghpvc/?username=hexbido&color=f2004a&style=flat-square" alt="Profile views" />
+  <img src="https://komarev.com/ghpvc/?username=hexbido&color=f2004a&style=flat" alt="Profile views" />
   &nbsp;
   <!-- Followers -->
-  <img src="https://img.shields.io/github/followers/hexbido?label=Followers&color=f2004a&logo=github&style=flat-square" alt="GitHub Followers" />
+  <img src="https://img.shields.io/github/followers/hexbido?label=Followers&color=f2004a&logo=github&style=flat" alt="GitHub Followers" />
   &nbsp;
   <!-- Total Stars -->
-  <img src="https://img.shields.io/github/stars/hexbido?label=Stars&color=f2004a&logo=github&style=flat-square" alt="Total Stars" />
+  <img src="https://img.shields.io/github/stars/hexbido?label=Stars&color=f2004a&logo=github&style=flat" alt="Total Stars" />
   &nbsp;
   <!-- 2025 Commits -->
-  <img src="https://img.shields.io/badge/2025%20Commits-0?color=f2004a&logo=github&style=flat-square" alt="2025 Commits" />
+  <img src="https://img.shields.io/badge/2025%20Commits-0?color=f2004a&logo=github&style=flat" alt="2025 Commits" />
 </p>
 
 -----
