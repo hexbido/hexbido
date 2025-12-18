@@ -37,21 +37,21 @@
 <p align="center">
   <!-- LinkedIn -->
   <a href="https://linkedin.com/in/a-mohammedzaki" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+    <img src="https://skillicons.dev/icons?i=linkedin&theme=light" height="50" alt="linkedin logo" />
   </a>
-  &nbsp;
+  &nbsp;&nbsp;
   <!-- GitHub -->
   <a href="https://github.com/hexbido" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+    <img src="https://skillicons.dev/icons?i=github&theme=dark" height="50" alt="github logo" />
   </a>
-  &nbsp;
+  &nbsp;&nbsp;
   <!-- Facebook -->
   <a href="https://facebook.com/ixbido" target="_blank">
-    <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook"/>
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="facebook" height="47" width="47" />
   </a>
-  &nbsp;
+  &nbsp;&nbsp;
   <!-- Email -->
   <a href="mailto:abdelrahman.mohammedxv@gmail.com">
-    <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+    <img src="https://skillicons.dev/icons?i=gmail&theme=light" height="50" alt="gmail logo" />
   </a>
 </p>
