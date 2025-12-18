@@ -9,7 +9,7 @@
   <h3>Software Engineer | Front-End Developer</h3>
 
   <p align="center">
-    <i>My Journey Focuses On Software Engineering, Specifically Front-End Development and Full-stack Applications & Websites, And Head Towards MERN Stack, Always Eager To Learn And Take On New Challenges In The Tech World!</i>
+    <i>My Journey Focuses On Software Engineering, Specifically Front-End Development and Full-stack Applications & Websites, And Head Towards MERN Stack, Always Eager To Learn And Take On New Challenges In The Tech World, And Whatever I Do.. I Do With Perfection.</i>
   </p>
 </div>
 
