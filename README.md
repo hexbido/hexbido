@@ -37,7 +37,7 @@
 <p align="center">
   <!-- LinkedIn -->
   <a href="https://linkedin.com/in/a-mohammedzaki" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin-square&logoColor=white" alt="LinkedIn"/>
+    <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
   &nbsp;
   <!-- GitHub -->
