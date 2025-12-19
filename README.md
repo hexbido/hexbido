@@ -35,13 +35,17 @@
   &nbsp;
   <!-- 2025 Commits -->
   <img src="https://img.shields.io/badge/2025%20Commits-0?color=f2004a&logo=github&style=flat" alt="2025 Commits" />
+  
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif" width="300">
+  <br>
 </p>
 
 -----
 
 <!--  Browser & GenAI & OS/IDEs -->
 <h2 align="center">
-  Browser & GenAI & OS/IDEs <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Laptop.png" alt="Laptop" width="40" height="40" />
+  Browser & GenAI & OS / IDEs <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Laptop.png" alt="Laptop" width="30" height="40" /></sub>
 </h2>
 
 <div align="center">
@@ -72,9 +76,9 @@
 </div>
 
 -----
-
+<!-- Skills & X-Topic -->
 <h2 align="center">
-  Skills & X-Topics <sub><img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="40" height="40" /></sub>
+  Skills & X-Topics <sub><img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="30" height="40" /></sub>
 </h2>
 
 <div align="center">
@@ -112,4 +116,9 @@
 </p>
 
 -----
-<!-- My Screen & My Customizations -->
+
+<!-- Profile State & Analytics -->
+<h2 align="center">
+  Profile State & Analytics <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Chart%20Increasing.png" alt="Chart Increasing" width="30" height="40" /></sub>
+</h2>
+
