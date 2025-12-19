@@ -1,4 +1,6 @@
 <div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=f2004a&height=110&section=header" width="100%">
+  
   <img 
     src="https://capsule-render.vercel.app/api?type=slice&section=header&height=250&color=f2004a&text=Think%20Outside%20The%20Box!&desc=Think%20More%20Freely.&fontColor=ffffff&fontSize=35&descSize=20&fontAlignY=45&descAlignY=58&animation=twinkling&rotate=16.5&fontstyle=italic"
     alt="Think Outside The Box Header" 
@@ -33,10 +35,23 @@
   <!-- Total Stars -->
   <img src="https://img.shields.io/github/stars/hexbido?label=Stars&color=f2004a&logo=github&style=flat" alt="Total Stars" />
   &nbsp;
+  
+  <!-- Forks -->
+  <img src="https://img.shields.io/github/stars/hexbido?label=Forks&color=f2004a&logo=github&style=flat" alt="Total Stars" />
+  &nbsp;
+
+   <!-- Issues -->
+  <img src="https://img.shields.io/github/stars/hexbido?label=Issues&color=f2004a&logo=github&style=flat" alt="Total Stars" />
+  &nbsp;
+
+   <!-- Pulls -->
+  <img src="https://img.shields.io/github/stars/hexbido?label=Pulls&color=f2004a&logo=github&style=flat" alt="Total Stars" />
+  &nbsp;
+  
   <!-- 2025 Commits -->
   <img src="https://img.shields.io/badge/2025%20Commits-0?color=f2004a&logo=github&style=flat" alt="2025 Commits" />
   
-<p align="center">
+  <p align="center">
   <img src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif" width="300">
   <br>
 </p>
@@ -122,6 +137,7 @@
   Profile State & Analytics <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Chart%20Increasing.png" alt="Chart Increasing" width="30" height="40" style="vertical-align: bottom;" /></sub>
 </h2>
 
+
 <div align="center">
   <a href="https://github.com/hexbido">
     <img src="https://github-widgetbox.vercel.app/api/profile?username=hexbido&data=repositories,stars,commits&theme=mountain" alt="GitHub WidgetBox" width="70%" />
@@ -130,7 +146,7 @@
 
 <div align="center">
   <a href="https://github.com/Ashutosh00710/github-readme-activity-graph">
-    <img src="https://github-readme-activity-graph.vercel.app/graph?username=hexbido&theme=high-contrast&hide_border=false" width="100%" alt="Activity Graph" />
+    <img src="https://github-readme-activity-graph.vercel.app/graph?username=hexbido&theme=high-contrast&hide_border=true" width="100%" alt="Activity Graph" />
   </a>
   
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hexbido&layout=compact&hide_border=true&theme=highcontrast&icon_color=f2004a" height="170" alt="Most Used Languages" />
@@ -140,8 +156,21 @@
 
 <div align="left">
   <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=hexbido&theme=highcontrast" height="165" alt="Profile Details" />
-  <img src="https://github-readme-stats.vercel.app/api?username=hexbido&show_icons=true&rank_icon=github&theme=highcontrast&hide_border=true" height="165" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=hexbido&show_icons=true&rank_icon=github&theme=highcontrast&hide_border=true&disable_animations=false" height="165" alt="GitHub Stats" />
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=hexbido&layout=compact&theme=radical&hide_border=true&range=last_year" alt="WakaTime Stats" />
-  
+  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=hexbido&layout=compact&theme=highcontrast&hide_border=true&range=all&disable_animations=false" alt="WakaTime Stats" />
+
+<div align="center">
+
+  <a href="https://github.com/hexbido">
+    <img src="https://stats.hyo.dev/api/github-stats-advanced?login=hexbido" height="400" alt="Stats" />
+  </a>
+
+  <br />
+
+  <img src="https://raw.githubusercontent.com/Schweinepriester/github-profile-achievements/main/images/pull-shark-default.png" width="100" alt="Pull Shark" title="Pull Shark: Merged Pull Requests" />
+  <img src="https://raw.githubusercontent.com/Schweinepriester/github-profile-achievements/main/images/open-sourcerer-default.png" width="100" alt="Open Sourcerer" title="Open Sourcerer 🔮" />  <img src="https://raw.githubusercontent.com/Schweinepriester/github-profile-achievements/main/images/starstruck-default.png" width="100" alt="Starstruck" title="Starstruck: Popular Repo" />
+  <img src="https://raw.githubusercontent.com/Schweinepriester/github-profile-achievements/main/images/galaxy-brain-default.png" width="100" alt="Galaxy Brain" title="Galaxy Brain: Accepted Answers" />
+  <img src="https://raw.githubusercontent.com/Schweinepriester/github-profile-achievements/main/images/quickdraw-default.png" width="100" alt="Quickdraw" title="Quickdraw" />
+
 </div>
