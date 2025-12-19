@@ -134,9 +134,8 @@
 
 <!-- Profile State & Analytics -->
 <h2 align="center">
-  Profile State & Analytics <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Chart%20Increasing.png" alt="Chart Increasing" width="30" height="40" style="vertical-align: bottom;" /></sub>
+  Profile State & Analytics <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Chart%20Increasing.png" alt="Chart Increasing" width="30" height="40" style="vertical-align: bottom;" />
 </h2>
-
 
 <div align="center">
   <a href="https://github.com/hexbido">
@@ -144,33 +143,45 @@
   </a>
 </div>
 
+<br />
+
 <div align="center">
   <a href="https://github.com/Ashutosh00710/github-readme-activity-graph">
     <img src="https://github-readme-activity-graph.vercel.app/graph?username=hexbido&theme=high-contrast&hide_border=true" width="100%" alt="Activity Graph" />
   </a>
-  
+  <br />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hexbido&layout=compact&hide_border=true&theme=highcontrast&icon_color=f2004a" height="170" alt="Most Used Languages" />
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=hexbido&theme=highcontrast" height="170" alt="Repos per Language" />
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=hexbido&theme=highcontrast" height="170" alt="Most Commit Language" />
 </div>
 
-<div align="left">
+<br />
+
+<div align="center">
   <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=hexbido&theme=highcontrast" height="165" alt="Profile Details" />
   <img src="https://github-readme-stats.vercel.app/api?username=hexbido&show_icons=true&rank_icon=github&theme=highcontrast&hide_border=true&disable_animations=false" height="165" alt="GitHub Stats" />
-<div align="center">
+  <br />
   <img src="https://github-readme-stats.vercel.app/api/wakatime?username=hexbido&layout=compact&theme=highcontrast&hide_border=true&range=all&disable_animations=false" alt="WakaTime Stats" />
+</div>
+
+<br />
 
 <div align="center">
-
   <a href="https://github.com/hexbido">
     <img src="https://stats.hyo.dev/api/github-stats-advanced?login=hexbido" height="400" alt="Stats" />
   </a>
-
   <br />
-
-  <img src="https://raw.githubusercontent.com/Schweinepriester/github-profile-achievements/main/images/pull-shark-default.png" width="100" alt="Pull Shark" title="Pull Shark: Merged Pull Requests" />
-  <img src="https://raw.githubusercontent.com/Schweinepriester/github-profile-achievements/main/images/open-sourcerer-default.png" width="100" alt="Open Sourcerer" title="Open Sourcerer 🔮" />  <img src="https://raw.githubusercontent.com/Schweinepriester/github-profile-achievements/main/images/starstruck-default.png" width="100" alt="Starstruck" title="Starstruck: Popular Repo" />
-  <img src="https://raw.githubusercontent.com/Schweinepriester/github-profile-achievements/main/images/galaxy-brain-default.png" width="100" alt="Galaxy Brain" title="Galaxy Brain: Accepted Answers" />
+  <img src="https://raw.githubusercontent.com/Schweinepriester/github-profile-achievements/main/images/pull-shark-default.png" width="100" alt="Pull Shark" title="Pull Shark" />
+  <img src="https://raw.githubusercontent.com/Schweinepriester/github-profile-achievements/main/images/open-sourcerer-default.png" width="100" alt="Open Sourcerer" title="Open Sourcerer 🔮" />
+  <img src="https://raw.githubusercontent.com/Schweinepriester/github-profile-achievements/main/images/starstruck-default.png" width="100" alt="Starstruck" title="Starstruck" />
+  <img src="https://raw.githubusercontent.com/Schweinepriester/github-profile-achievements/main/images/galaxy-brain-default.png" width="100" alt="Galaxy Brain" title="Galaxy Brain" />
   <img src="https://raw.githubusercontent.com/Schweinepriester/github-profile-achievements/main/images/quickdraw-default.png" width="100" alt="Quickdraw" title="Quickdraw" />
+</div>
 
+<br />
+
+<div align="center">
+  <a href="https://github.com/hexbido/hexbido/generate">
+    <img src="https://raw.githubusercontent.com/hexbido/hexbido/output/github-contribution-grid-snake-dark.svg" alt="Snake Animation" />
+  </a>
 </div>
