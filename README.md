@@ -29,11 +29,17 @@
   <!-- Profile Views -->
   <img src="https://komarev.com/ghpvc/?username=hexbido&color=f2004a&style=flat" alt="Profile views" />
   &nbsp;
+  
   <!-- Followers -->
   <img src="https://img.shields.io/github/followers/hexbido?label=Followers&color=f2004a&logo=github&style=flat" alt="GitHub Followers" />
   &nbsp;
+  
   <!-- Total Stars -->
   <img src="https://img.shields.io/github/stars/hexbido?label=Stars&color=f2004a&logo=github&style=flat" alt="Total Stars" />
+  &nbsp;
+
+  <!-- Total Repo Size -->
+  <img src="https://img.shields.io/github/repo-size/hexbido/hexbido?label=Repo%20Size&color=f2004a&logo=github" alt="Repo Size" />
   &nbsp;
   
   <!-- Forks -->
@@ -49,7 +55,8 @@
   &nbsp;
   
   <!-- 2025 Commits -->
-  <img src="https://img.shields.io/badge/2025%20Commits-0?color=f2004a&logo=github&style=flat" alt="2025 Commits" />
+  <img src="https://img.shields.io/github/commit-activity/m/hexbido/hexbido?label=Commit%20Activity&color=f2004a&logo=github" alt="Commit Activity" />
+  &nbsp;
   
   <p align="center">
   <img src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif" width="300">
@@ -109,22 +116,31 @@
 <!--Connect With Me -->
 <h3 align="center">Connect With Me 📫</h3>
 <p align="center">
-  <!-- LinkedIn -->
   <a href="https://linkedin.com/in/a-mohammedzaki" target="_blank">
     <img src="https://skillicons.dev/icons?i=linkedin&theme=light" height="50" alt="linkedin logo" />
   </a>
   &nbsp;&nbsp;
-  <!-- GitHub -->
+  
   <a href="https://github.com/hexbido" target="_blank">
     <img src="https://skillicons.dev/icons?i=github&theme=dark" height="50" alt="github logo" />
   </a>
   &nbsp;&nbsp;
-  <!-- Facebook -->
+  
   <a href="https://facebook.com/ixbido" target="_blank">
     <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="facebook" height="47" width="47" />
   </a>
   &nbsp;&nbsp;
-  <!-- Email -->
+
+  <a href="https://instagram.com/q.rx4" target="_blank">
+    <img src="https://skillicons.dev/icons?i=instagram&theme=light" height="50" alt="instagram logo" />
+  </a>
+  &nbsp;&nbsp;
+
+  <a href="https://t.me/hexbido" target="_blank">
+    <img src="https://img.icons8.com/color/48/000000/telegram-app.png" height="50" width="50" alt="telegram logo" />
+  </a>
+  &nbsp;&nbsp;
+  
   <a href="mailto:abdelrahman.mohammedxv@gmail.com">
     <img src="https://skillicons.dev/icons?i=gmail&theme=light" height="50" alt="gmail logo" />
   </a>
@@ -178,10 +194,60 @@
   <img src="https://raw.githubusercontent.com/Schweinepriester/github-profile-achievements/main/images/quickdraw-default.png" width="100" alt="Quickdraw" title="Quickdraw" />
 </div>
 
-<br />
+
+<h2 align="center">
+  GitHub Contribution Chart <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Animals/Snake.png" alt="Snake Emoji" width="30" height="40" style="vertical-align: bottom;" /></sub>
+</h2>
 
 <div align="center">
   <a href="https://github.com/hexbido/hexbido/generate">
     <img src="https://raw.githubusercontent.com/hexbido/hexbido/output/github-contribution-grid-snake-dark.svg" alt="Snake Animation" />
   </a>
+</div>
+
+<br />
+
+<h2 align="center">My Spotify World 🎵</h2>
+<p align="center">
+Explore my meticulously curated Spotify playlist, composed entirely of exceptional copyright-free music. It's perfectly suited for enhancing focus during coding sessions.
+</p>
+<h5 align="center">Enjoy the tunes!</h5>
+
+<p align="center">
+<a href="https://open.spotify.com/playlist/3RTxNYSvRR30TOZp0QFSIS?si=05616270273b4c64" target="_blank">
+<img src="https://bentos.jkominovic.dev/api/v1/generic-card?icon=siSpotify&subtitle=My+Playlist&size=wide" alt="My Playlist">
+</a>
+</p>
+
+<h3 align="center">Top Artists of Playlist</h3>
+
+<div align="center">
+  <div style="text-align:center">
+    <a href="https://github.com/hexbido">
+      <img src="https://card.elwan.ch/?username=31o5fzd2my7dazdltxfu3kuq36zy" height="100" alt="Top Artists" />
+    </a>
+  </div>
+<br />
+
+<table>
+<tr>
+<td>
+<img src="https://spotify-recently-played-readme.vercel.app/api?user=31o5fzd2my7dazdltxfu3kuq36zy&count=2" alt="Recently Played List">
+</td>
+<td>
+<a href="https://github.com/hexbido">
+<img src="https://spotify-github-profile.kittinanx.com/api/view?uid=31o5fzd2my7dazdltxfu3kuq36zy&cover_image=true&theme=spotify-embed&show_offline=true&background_color=0d1117&interchange=false&profanity=false&bar_color=53b14f&bar_color_cover=false&mode=dark" alt="Now Playing">
+</a>
+</td>
+</tr>
+</table>
+
+<details>
+<summary>View Data Card for Spotify</summary>
+<br />
+<a href="https://data-card-for-spotify.herokuapp.com/card?user_id=31o5fzd2my7dazdltxfu3kuq36zy">
+<img src="https://data-card-for-spotify.herokuapp.com/api/card?user_id=31o5fzd2my7dazdltxfu3kuq36zy" alt="Data Card for Spotify">
+</a>
+</details>
+
 </div>
