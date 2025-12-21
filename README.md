@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=f2004a&height=110&section=header" width="100%">
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=110&section=header&color=f2004a" width="100%">
   
   <img 
     src="https://capsule-render.vercel.app/api?type=slice&section=header&height=250&color=f2004a&text=Think%20Outside%20The%20Box!&desc=Think%20More%20Freely.&fontColor=ffffff&fontSize=35&descSize=20&fontAlignY=45&descAlignY=58&animation=twinkling&rotate=16.5&fontstyle=italic"
@@ -113,41 +113,6 @@
 
 -----
 
-<!--Connect With Me -->
-<h3 align="center">Connect With Me 📫</h3>
-<p align="center">
-  <a href="https://linkedin.com/in/a-mohammedzaki" target="_blank">
-    <img src="https://skillicons.dev/icons?i=linkedin&theme=light" height="50" alt="linkedin logo" />
-  </a>
-  &nbsp;&nbsp;
-  
-  <a href="https://github.com/hexbido" target="_blank">
-    <img src="https://skillicons.dev/icons?i=github&theme=dark" height="50" alt="github logo" />
-  </a>
-  &nbsp;&nbsp;
-  
-  <a href="https://facebook.com/ixbido" target="_blank">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="facebook" height="47" width="47" />
-  </a>
-  &nbsp;&nbsp;
-
-  <a href="https://instagram.com/q.rx4" target="_blank">
-    <img src="https://skillicons.dev/icons?i=instagram&theme=light" height="50" alt="instagram logo" />
-  </a>
-  &nbsp;&nbsp;
-
-  <a href="https://t.me/hexbido" target="_blank">
-    <img src="https://img.icons8.com/color/48/000000/telegram-app.png" height="50" width="50" alt="telegram logo" />
-  </a>
-  &nbsp;&nbsp;
-  
-  <a href="mailto:abdelrahman.mohammedxv@gmail.com">
-    <img src="https://skillicons.dev/icons?i=gmail&theme=light" height="50" alt="gmail logo" />
-  </a>
-</p>
-
------
-
 <!-- Profile State & Analytics -->
 <h2 align="center">
   Profile State & Analytics <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Chart%20Increasing.png" alt="Chart Increasing" width="30" height="40" style="vertical-align: bottom;" />
@@ -205,13 +170,14 @@
   </a>
 </div>
 
-<br />
+-----
 
 <h2 align="center">My Spotify World 🎵</h2>
 <p align="center">
-Explore my meticulously curated Spotify playlist, composed entirely of exceptional copyright-free music. It's perfectly suited for enhancing focus during coding sessions.
-</p>
-<h5 align="center">Enjoy the tunes!</h5>
+    <i>Explore My Meticulously Curated Spotify Playlist, My Personal Collection Of Holy Quran Recitations & Islamic Content - A source Of Tranquility, Spiritual Focus, And Inner Peace.</i>
+  </p>
+</div>
+<h5 align="center">Enjoy The Tunes!</h5>
 
 <p align="center">
 <a href="https://open.spotify.com/playlist/3RTxNYSvRR30TOZp0QFSIS?si=05616270273b4c64" target="_blank">
@@ -219,20 +185,15 @@ Explore my meticulously curated Spotify playlist, composed entirely of exception
 </a>
 </p>
 
-<h3 align="center">Top Artists of Playlist</h3>
-
-<div align="center">
-  <div style="text-align:center">
-    <a href="https://github.com/hexbido">
-      <img src="https://card.elwan.ch/?username=31o5fzd2my7dazdltxfu3kuq36zy" height="100" alt="Top Artists" />
-    </a>
-  </div>
 <br />
 
+<div align="center">
 <table>
 <tr>
 <td>
-<img src="https://spotify-recently-played-readme.vercel.app/api?user=31o5fzd2my7dazdltxfu3kuq36zy&count=2" alt="Recently Played List">
+<a href="https://open.spotify.com/user/31o5fzd2my7dazdltxfu3kuq36zy">
+  <img src="https://spotify-recently-played-readme.vercel.app/api?user=31o5fzd2my7dazdltxfu3kuq36zy&width=450" alt="Spotify Recently Played">
+</a>
 </td>
 <td>
 <a href="https://github.com/hexbido">
@@ -242,12 +203,79 @@ Explore my meticulously curated Spotify playlist, composed entirely of exception
 </tr>
 </table>
 
-<details>
-<summary>View Data Card for Spotify</summary>
 <br />
+
 <a href="https://data-card-for-spotify.herokuapp.com/card?user_id=31o5fzd2my7dazdltxfu3kuq36zy">
 <img src="https://data-card-for-spotify.herokuapp.com/api/card?user_id=31o5fzd2my7dazdltxfu3kuq36zy" alt="Data Card for Spotify">
 </a>
-</details>
+</div>
+
+-----
+
+<h3 align="center">
+  Quotes & Date NY-Moon
+  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Crescent%20Moon.png" alt="Moon" width="30" height="30" /></sub>
+</h3>
+<div align="center">
+<table>
+<tr>
+<td valign="middle" align="center" width="50%">
+<img src="https://i.countdownmail.com/4q6jxv.gif" border="0" alt="countdownmail.com" width="100%"/>
+</td>
+<td valign="middle" align="center" width="50%">
+<img src="https://moon-svg.minung.dev/moon.svg?size=100&theme=ray&rotate=8" alt="Moon Phase" width="130">
+</td>
+</tr>
+</table>
+<br />
+<p align="center">
+<a href="https://github.com/marketplace/actions/github-readme-quotes">
+<img src="https://github-readme-quotes-bay.vercel.app/quote?theme=dark&layout=default&quoteCategory=programming&borderColor=red" alt="Random Quote">
+</a>
+</p>
+</div>
+
+-----
+
+<!--Connect With Me -->
+<h3 align="center">Connect With Me 📫</h3>
+<p align="center">
+  <a href="https://linkedin.com/in/a-mohammedzaki" target="_blank">
+    <img src="https://skillicons.dev/icons?i=linkedin&theme=light" height="50" alt="linkedin logo" />
+  </a>
+  &nbsp;&nbsp;
+  
+  <a href="https://github.com/hexbido" target="_blank">
+    <img src="https://skillicons.dev/icons?i=github&theme=dark" height="50" alt="github logo" />
+  </a>
+  &nbsp;&nbsp;
+  
+  <a href="https://facebook.com/ixbido" target="_blank">
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="facebook" height="47" width="47" />
+  </a>
+  &nbsp;&nbsp;
+
+  <a href="https://instagram.com/q.rx4" target="_blank">
+    <img src="https://skillicons.dev/icons?i=instagram&theme=light" height="50" alt="instagram logo" />
+  </a>
+  &nbsp;&nbsp;
+
+  <a href="https://t.me/hexbido" target="_blank">
+    <img src="https://img.icons8.com/color/48/000000/telegram-app.png" height="50" width="50" alt="telegram logo" />
+  </a>
+  &nbsp;&nbsp;
+  
+  <a href="mailto:abdelrahman.mohammedxv@gmail.com">
+    <img src="https://skillicons.dev/icons?i=gmail&theme=light" height="50" alt="gmail logo" />
+  </a>
+</p>
+<br>
+
+<h3 align="center">
+  From <a href="https://github.com/hexbido">B I D O</a> | Let's Aspire Together! 
+  <img src="https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif" width="60px">
+</h3>
 
 </div>
+</h3>
+<img src="https://capsule-render.vercel.app/api?type=waving&height=110&section=footer&color=f2004a" width="100%">
