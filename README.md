@@ -113,7 +113,8 @@
 
 <!-- Profile State & Analytics -->
 <h2 align="center">
-  Profile State & Analytics <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Chart%20Increasing.png" alt="Chart Increasing" width="30" height="40" style="vertical-align: bottom;" />
+  Profile State & Analytics <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Telegram-Animated-Emojis/main/Objects/Chart%20Increasing.webp" alt="Stats" width="30" height="40" /></sub>
+
 </h2>
 
 <div align="center">
@@ -157,9 +158,10 @@
   <img src="https://raw.githubusercontent.com/Schweinepriester/github-profile-achievements/main/images/quickdraw-default.png" width="100" alt="Quickdraw" title="Quickdraw" />
 </div>
 
+-----
 
 <h2 align="center">
-  GitHub Contribution Chart <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Animals/Snake.png" alt="Snake Emoji" width="30" height="40" style="vertical-align: bottom;" /></sub>
+  GitHub Contribution Chart <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Telegram-Animated-Emojis/main/Animals%20and%20Nature/Snake.webp" alt="Snake" width="30" height="40" /></sub>
 </h2>
 
 <div align="center">
