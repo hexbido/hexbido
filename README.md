@@ -172,12 +172,11 @@
 
 <h2 align="center">
   My Spotify World 
-  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Musical%20Note.png" alt="Musical Note" width="35" height="35" />
+  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Telegram-Animated-Emojis/main/Objects/Musical%20Note.webp" alt="Musical Note" width="40" height="40" />
 </h2>
 <p align="center">
     <i>Explore My Meticulously Curated Spotify Playlist, My Personal Collection Of Holy Quran Recitations & Islamic Content - A source Of Tranquility, Spiritual Focus, And Inner Peace.</i>
 </p>
-</div>
 
 <h5 align="center">Enjoy The Tunes!</h5>
 
