@@ -67,7 +67,7 @@
 
 <!--  Browser & GenAI & OS/IDEs -->
 <h2 align="center">
-  Browser & GenAI & OS - IDEs <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Laptop.png" alt="Laptop" width="30" height="40" /></sub>
+  Browser & GenAI & OS - IDEs <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Telegram-Animated-Emojis/main/People/Man%20Technologist.webp" alt="Coder" width="30" height="40" /></sub>
 </h2>
 
 <div align="center">
@@ -172,7 +172,7 @@
 
 <h2 align="center">
   My Spotify World 
-  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Telegram-Animated-Emojis/main/Objects/Musical%20Note.webp" alt="Musical Note" width="40" height="40" />
+  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Telegram-Animated-Emojis/main/Objects/Musical%20Note.webp" alt="Musical Note" width="30" height="40" /></sub>
 </h2>
 <p align="center">
     <i>Explore My Meticulously Curated Spotify Playlist, My Personal Collection Of Holy Quran Recitations & Islamic Content - A source Of Tranquility, Spiritual Focus, And Inner Peace.</i>
