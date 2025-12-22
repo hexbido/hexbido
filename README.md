@@ -67,18 +67,18 @@
 
 <!--  Browser & GenAI & OS/IDEs -->
 <h2 align="center">
-  Browser & GenAI & OS - IDEs <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Telegram-Animated-Emojis/main/People/Man%20Technologist.webp" alt="Coder" width="30" height="40" /></sub>
+  My Work Enviroment <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Telegram-Animated-Emojis/main/People/Man%20Technologist.webp" alt="Coder" width="30" height="40" /></sub>
 </h2>
 
 <div align="center">
 
   <img src="https://img.shields.io/badge/Zen-FF1B2D?style=for-the-badge&logo=zenbrowser&logoColor=white" />
 
-  <img src="https://img.shields.io/badge/Arc-000000?style=for-the-badge&logo=arc&logoColor=white" />
+  <img src="https://img.shields.io/badge/Arc-FCBFBD?style=for-the-badge&logo=arc&logoColor=000" />
 
   <img src="https://img.shields.io/badge/Brave-FB542B?style=for-the-badge&logo=Brave&logoColor=white" />
 
-  <img src="https://img.shields.io/badge/Microsoft_edge-4285F4?style=for-the-badge&logo=Microsoft-edge&logoColor=white" />
+  <img src="https://custom-icon-badges.demolab.com/badge/Edge-2771D8?style=for-the-badge&logo=edge-white&logoColor=white" />
 
   <br />
 
@@ -86,16 +86,22 @@
 
   <img src="https://img.shields.io/badge/Claude-D97757?style=for-the-badge&logo=claude&logoColor=white" />
 
-  <img src="https://img.shields.io/badge/Google%20Gemini-8E75B2?style=for-the-badge&logo=googlegemini&logoColor=white" />
+  <img src="https://img.shields.io/badge/Gemini-8E75B2?style=for-the-badge&logo=googlegemini&logoColor=white" />
+
+  <img src="https://custom-icon-badges.demolab.com/badge/Deepseek-4D6BFF?style=for-the-badge&logo=deepseek&logoColor=fff" />
 
   <img src="https://img.shields.io/badge/Perplexity-1FB8CD?style=for-the-badge&logo=perplexity&logoColor=white" />
 
   <img src="https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white" />
   
-  <img src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white" />
+  <img src="https://custom-icon-badges.demolab.com/badge/Windows-0078D6?style=for-the-badge&logo=windows11&logoColor=white" />
 
-  
-  <img src="https://img.shields.io/badge/VSCode-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white" />
+  <img src="https://custom-icon-badges.demolab.com/badge/VS%20Code-0078d7.svg?style=for-the-badge&logo=vsc&logoColor=white" />
+
+  <img src="https://custom-icon-badges.demolab.com/badge/Cursor-000000?style=for-the-badge&logo=cursor-ai-white" />
+
+  <img src="https://img.shields.io/badge/Replit-F26207?style=for-the-badge&logo=replit&logoColor=fff" />
+
 
 </div>
 
@@ -235,7 +241,7 @@
 <br />
 <p align="center">
 <a href="https://github.com/marketplace/actions/github-readme-quotes">
-<img src="https://github-readme-quotes-bay.vercel.app/quote?theme=dark&layout=default&quoteCategory=programming&borderColor=red" alt="Random Quote">
+<img src="https://github-readme-quotes-bay.vercel.app/quote?theme=dark&layout=default&quoteCategory=general&borderColor=red" alt="Random Quote">
 </a>
 </p>
 </div>
