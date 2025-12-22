@@ -105,9 +105,9 @@
 
 <div align="center">
   <a href="https://skillicons.dev">
-    <img src="https://go-skill-icons.vercel.app/api/icons?i=py,aiscript,actix,cairo,replit,git,github,gitbash,powershell,windows,vscode,cursor,devto" />
+    <img src="https://go-skill-icons.vercel.app/api/icons?i=py,replit,git,gitbash,github,powershell,windows,vscode,cursor,obs,miro" />
     <br />
-    <img src="https://go-skill-icons.vercel.app/api/icons?i=obs,miro" />
+    <img src="https://go-skill-icons.vercel.app/api/icons?i=" />
   </a>
 </div>
 
