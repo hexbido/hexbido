@@ -88,12 +88,8 @@
   <img src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white" />
   <img src="https://img.shields.io/badge/lenovo-E2231A?style=for-the-badge&logo=lenovo&logoColor=white" />
 
-  <br />
   
   <img src="https://img.shields.io/badge/VSCode-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white" />
-  <img src="https://img.shields.io/badge/Replit-DD1200?style=for-the-badge&logo=Replit&logoColor=white" />
-  <img src="https://img.shields.io/badge/Miro-F2CA02?style=for-the-badge&logo=miro&logoColor=black" />
-  <img src="https://img.shields.io/badge/pypi-ececec?style=for-the-badge&logo=pypi&logoColor=1f73b7" />
 
 </div>
 
