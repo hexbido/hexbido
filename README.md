@@ -67,7 +67,7 @@
 
 <!--  Browser & GenAI & OS/IDEs -->
 <h2 align="center">
-  Browser & GenAI & OS / IDEs <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Laptop.png" alt="Laptop" width="30" height="40" /></sub>
+  Browser & GenAI & OS - IDEs <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Laptop.png" alt="Laptop" width="30" height="40" /></sub>
 </h2>
 
 <div align="center">
