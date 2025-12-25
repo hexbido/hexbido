@@ -138,7 +138,7 @@
     <img src="https://github-readme-activity-graph.vercel.app/graph?username=hexbido&theme=high-contrast&hide_border=true" width="100%" alt="Activity Graph" />
   </a>
   <br />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hexbido&layout=compact&hide_border=true&theme=highcontrast&icon_color=f2004a" height="170" alt="Most Used Languages" />
+  <img src="https://github-readme-stats-fast.vercel.app/api/top-langs?username=hexbido&layout=compact&hide_border=true&theme=highcontrast" height="170" alt="Most Used Languages" />
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=hexbido&theme=highcontrast" height="170" alt="Repos per Language" />
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=hexbido&theme=highcontrast" height="170" alt="Most Commit Language" />
 </div>
@@ -146,10 +146,10 @@
 <br />
 
 <div align="center">
-  <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=hexbido&theme=highcontrast" height="165" alt="Profile Details" />
-  <img src="https://github-readme-stats.vercel.app/api?username=hexbido&show_icons=true&rank_icon=github&theme=highcontrast&hide_border=true&disable_animations=false" height="165" alt="GitHub Stats" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=hexbido&theme=highcontrast" height="165" alt="Profile Details" />
+  <img src="https://github-readme-stats-fast.vercel.app/api?username=hexbido&show_icons=true&rank_icon=github&theme=highcontrast&hide_border=true&disable_animations=false" height="165" alt="GitHub Stats" />
   <br />
-  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=hexbido&layout=compact&theme=highcontrast&hide_border=true&range=all&disable_animations=false" alt="WakaTime Stats" />
+  <img src="https://github-readme-stats-fast.vercel.app/api/wakatime?username=hexbido&layout=compact&theme=highcontrast&hide_border=true&range=all&disable_animations=false" alt="WakaTime Stats" />
 </div>
 
 <br />
