@@ -1,3 +1,5 @@
+<!--------------------------------[ Profile Interface ]----------------------------------->
+
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&height=110&section=header&color=f2004a" width="100%">
   
@@ -22,9 +24,8 @@
   </p>
 </div>
 
------
+<!--------------------------------[ GitHub Profile Stats ]----------------------------------->
 
-<!-- GitHub Profile Stats -->
 <p align="center">
   <!-- Profile Views -->
   <img src="https://komarev.com/ghpvc/?username=hexbido&color=f2004a&style=flat" alt="Profile views" />
@@ -45,12 +46,9 @@
   <!-- Forks -->
   <img src="https://img.shields.io/github/stars/hexbido?label=Forks&color=f2004a&logo=github&style=flat" alt="Total Stars" />
   &nbsp;
+  
 
-   <!-- Issues -->
-  <img src="https://img.shields.io/github/stars/hexbido?label=Issues&color=f2004a&logo=github&style=flat" alt="Total Stars" />
-  &nbsp;
-
-   <!-- Pulls -->
+  <!-- Pulls -->
   <img src="https://img.shields.io/github/stars/hexbido?label=Pulls&color=f2004a&logo=github&style=flat" alt="Total Stars" />
   &nbsp;
   
@@ -63,9 +61,8 @@
   <br>
 </p>
 
------
+<!--------------------------------[ Browser & GenAI & OS/IDEs ]----------------------------------->
 
-<!--  Browser & GenAI & OS/IDEs -->
 <h2 align="center">
   My Work Enviroment <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Telegram-Animated-Emojis/main/People/Man%20Technologist.webp" alt="Coder" width="30" height="40" /></sub>
 </h2>
@@ -102,11 +99,10 @@
 
   <img src="https://img.shields.io/badge/Replit-F26207?style=for-the-badge&logo=replit&logoColor=fff" />
 
-
 </div>
 
------
-<!-- Skills & X-Topic -->
+<!--------------------------------[ Skills & Tools ]----------------------------------->
+
 <h2 align="center">
   Skills & Tools <sub><img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="30" height="40" /></sub>
 </h2>
@@ -117,9 +113,8 @@
 
 </div>
 
------
+<!--------------------------------[ Profile State & Analytics ]----------------------------------->
 
-<!-- Profile State & Analytics -->
 <h2 align="center">
   Profile State & Analytics <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Telegram-Animated-Emojis/main/Objects/Chart%20Increasing.webp" alt="Stats" width="30" height="40" /></sub>
 
@@ -166,7 +161,7 @@
   <img src="https://raw.githubusercontent.com/Schweinepriester/github-profile-achievements/main/images/quickdraw-default.png" width="100" alt="Quickdraw" title="Quickdraw" />
 </div>
 
------
+<!--------------------------------[ GitHub Chart ]----------------------------------->
 
 <h2 align="center">
   GitHub Contribution Chart <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Telegram-Animated-Emojis/main/Animals%20and%20Nature/Snake.webp" alt="Snake" width="30" height="40" /></sub>
@@ -178,7 +173,7 @@
   </a>
 </div>
 
------
+<!--------------------------------[ Spotify Account ]----------------------------------->
 
 <h2 align="center">
   My Spotify World 
@@ -221,7 +216,7 @@
 </a>
 </div>
 
------
+<!--------------------------------[ Dates & Qoutes With Moon ]----------------------------------->
 
 <h3 align="center">
   Quotes & Date NY-Moon
@@ -246,10 +241,13 @@
 </p>
 </div>
 
------
+<!--------------------------------[ Contact Me ]----------------------------------->
 
 <!--Connect With Me -->
-<h3 align="center">Connect With Me 📫</h3>
+<h3 align="center">
+  Connect With Me 
+  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Telegram-Animated-Emojis/main/Objects/Incoming%20Envelope.webp" alt="Connect" width="30" height="40" />
+</h3>
 <p align="center">
   <a href="https://linkedin.com/in/a-mohammedzaki" target="_blank">
     <img src="https://skillicons.dev/icons?i=linkedin&theme=light" height="50" alt="linkedin logo" />
