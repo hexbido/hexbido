@@ -109,10 +109,76 @@
 
 <div align="center">
   <a href="https://skillicons.dev">
-    <img src="https://go-skill-icons.vercel.app/api/icons?i=py,replit,git,gitbash,github,vscode,cursor,obs,miro" />
+    <img src="https://go-skill-icons.vercel.app/api/icons?i=py,replit,git,github,vscode,cursor,obs,miro" />
 
 </div>
 
+<!--------------------------------[ Certifications & Education ]----------------------------------->
+
+<h2 align="center">
+  Professional Training & Certifications 
+  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Telegram-Animated-Emojis/main/Objects/Books.webp" alt="Books" width="30" height="40" />
+</h2>
+
+<div align="center">
+<table style="margin: 0 auto;">
+  <thead>
+    <tr>
+      <th>Program</th>
+      <th>Organization</th>
+      <th>Duration</th>
+      <th>Status</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr valign="middle">
+      <td align="center">
+        <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black" alt="React" />
+        <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" alt="TypeScript" />
+        <br />
+        <b>ReactJS & TypeScript Web Development</b>
+      </td>
+      <td align="center">Almdarsa</td>
+      <td align="center">Oct 2025 - Present</td>
+      <td align="center">
+        <img src="https://img.shields.io/badge/Status-In%20Progress-f2004a?style=flat-square" alt="Status" />
+      </td>
+    </tr>
+  </tbody>
+</table>
+</div>
+
+<br />
+
+<h2 align="center">
+  Academic Background 
+  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Telegram-Animated-Emojis/main/Objects/Graduation%20Cap.webp" alt="Graduation" width="30" height="40" />
+</h2>
+
+<table width="100%">
+  <thead>
+    <tr>
+      <th width="35%">Degree</th>
+      <th width="40%">Institution</th>
+      <th width="12.5%">Duration</th>
+      <th width="12.5%">Grade</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr valign="middle">
+      <td align="center"><b>Bachelor's Of Business Information System</b></td>
+      <td align="center">Al-Shorouk Academy - Faculty of Computers & Information Technology</td>
+      <td align="center">Sep 2024 - Aug 2028</td>
+      <td align="center"><b>Very Good (78.27%)</b></td>
+    </tr>
+    <tr valign="middle">
+      <td align="center"><b>High School Diploma</b></td>
+      <td align="center">Al-Shaheed Mahmoud Raafat Military Secondary Industrial School</td>
+      <td align="center">2021 - 2024</td>
+      <td align="center"><b>Graduated - Very Good (76.26%)</b></td>
+    </tr>
+  </tbody>
+</table>
 <!--------------------------------[ Profile State & Analytics ]----------------------------------->
 
 <h2 align="center">
@@ -281,9 +347,10 @@
 <br>
 
 <h3 align="center">
-  From <a href="https://github.com/hexbido">B I D O</a> | Let's Aspire Together! 
+  From <a href="https://github.com/hexbido">B I D O</a> | Let's Aspire & Build Together! 
   <img src="https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif" width="60px">
 </h3>
+
 
 </div>
 </h3>
