@@ -199,9 +199,10 @@
     <img src="https://github-readme-activity-graph.vercel.app/graph?username=hexbido&theme=high-contrast&hide_border=true" width="100%" alt="Activity Graph" />
   </a>
   <br />
-  <img src="https://github-readme-stats-fast.vercel.app/api/top-langs?username=hexbido&layout=compact&hide_border=true&theme=highcontrast" height="170" alt="Most Used Languages" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=hexbido&theme=highcontrast" height="170" alt="Repos per Language" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=hexbido&theme=highcontrast" height="170" alt="Most Commit Language" />
+  
+  <img src="https://github-readme-stats-fast.vercel.app/api/top-langs?username=hexbido&layout=compact&hide_border=true&theme=highcontrast&cache_seconds=7200" style="height: 170px; width: 280px;" alt="Most Used Languages" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=hexbido&theme=highcontrast&exclude_repo=github-readme-stats&cache_seconds=7200" style="height: 170px; width: 280px;" alt="Repos per Language" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=hexbido&theme=highcontrast&exclude_repo=github-readme-stats&cache_seconds=7200" style="height: 170px; width: 280px;" alt="Most Commit Language" />
 </div>
 
 <br />
