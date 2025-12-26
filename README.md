@@ -64,7 +64,7 @@
 <!--------------------------------[ Browser & GenAI & OS/IDEs ]----------------------------------->
 
 <h2 align="center">
-  My Work Enviroment <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Telegram-Animated-Emojis/main/People/Man%20Technologist.webp" alt="Coder" width="30" height="40" /></sub>
+  My Work Enviroment <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Telegram-Animated-Emojis/main/People/Man%20Technologist.webp" alt="Coder" width="30" height="30" /></sub>
 </h2>
 
 <div align="center">
@@ -117,7 +117,7 @@
 
 <h2 align="center">
   Professional Training & Certifications 
-  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Telegram-Animated-Emojis/main/Objects/Books.webp" alt="Books" width="30" height="40" />
+  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Telegram-Animated-Emojis/main/Objects/Books.webp" alt="Books" width="30" height="30" />
 </h2>
 
 <div align="center">
@@ -152,7 +152,7 @@
 
 <h2 align="center">
   Academic Background 
-  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Telegram-Animated-Emojis/main/Objects/Graduation%20Cap.webp" alt="Graduation" width="30" height="40" />
+  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Telegram-Animated-Emojis/main/Objects/Graduation%20Cap.webp" alt="Graduation" width="30" height="30" />
 </h2>
 
 <table width="100%">
@@ -182,7 +182,7 @@
 <!--------------------------------[ Profile State & Analytics ]----------------------------------->
 
 <h2 align="center">
-  Profile State & Analytics <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Telegram-Animated-Emojis/main/Objects/Chart%20Increasing.webp" alt="Stats" width="30" height="40" /></sub>
+  Profile State & Analytics <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Telegram-Animated-Emojis/main/Objects/Chart%20Increasing.webp" alt="Stats" width="30" height="30" /></sub>
 
 </h2>
 
@@ -231,7 +231,7 @@
 <!--------------------------------[ GitHub Chart ]----------------------------------->
 
 <h2 align="center">
-  GitHub Contribution Chart <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Telegram-Animated-Emojis/main/Animals%20and%20Nature/Snake.webp" alt="Snake" width="30" height="40" /></sub>
+  GitHub Contribution Chart <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Telegram-Animated-Emojis/main/Animals%20and%20Nature/Snake.webp" alt="Snake" width="30" height="30" /></sub>
 </h2>
 
 <div align="center">
@@ -244,7 +244,7 @@
 
 <h2 align="center">
   My Spotify World 
-  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Telegram-Animated-Emojis/main/Objects/Musical%20Note.webp" alt="Musical Note" width="30" height="40" /></sub>
+  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Telegram-Animated-Emojis/main/Objects/Musical%20Note.webp" alt="Musical Note" width="30" height="30" /></sub>
 </h2>
 <p align="center">
     <i>Explore My Meticulously Curated Spotify Playlist, My Personal Collection Of Holy Quran Recitations & Islamic Content - A source Of Tranquility, Spiritual Focus, And Inner Peace.</i>
@@ -287,7 +287,7 @@
 
 <h3 align="center">
   Quotes & Date NY-Moon
-  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Crescent%20Moon.png" alt="Moon" width="30" height="30" /></sub>
+  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Telegram-Animated-Emojis/main/Animals%20and%20Nature/First%20Quarter%20Moon.webp" alt="First Quarter Moon" width="30" height="30" /></sub>
 </h3>
 <div align="center">
 <table>
