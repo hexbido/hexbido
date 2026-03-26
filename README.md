@@ -52,13 +52,9 @@
   <img src="https://img.shields.io/github/stars/hexbido?label=Pulls&color=f2004a&logo=github&style=flat" alt="Total Stars" />
   &nbsp;
   
-  <!-- 2025 Commits -->
+  <!-- 2026 Commits -->
   <img src="https://img.shields.io/github/commit-activity/m/hexbido/hexbido?label=Commit%20Activity&color=f2004a&logo=github" alt="Commit Activity" />
   &nbsp;
-  
-  <p align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif" width="300">
-  <br>
 </p>
 
 <!--------------------------------[ Browser & GenAI & OS/IDEs ]----------------------------------->
@@ -212,20 +208,6 @@
   <img src="https://github-readme-stats-fast.vercel.app/api?username=hexbido&show_icons=true&rank_icon=github&theme=highcontrast&hide_border=true&disable_animations=false" height="165" alt="GitHub Stats" />
   <br />
   <img src="https://github-readme-stats-fast.vercel.app/api/wakatime?username=hexbido&layout=compact&theme=highcontrast&hide_border=true&range=all&disable_animations=false" alt="WakaTime Stats" />
-</div>
-
-<br />
-
-<div align="center">
-  <a href="https://github.com/hexbido">
-    <img src="https://stats.hyo.dev/api/github-stats-advanced?login=hexbido" height="400" alt="Stats" />
-  </a>
-  <br />
-  <img src="https://raw.githubusercontent.com/Schweinepriester/github-profile-achievements/main/images/pull-shark-default.png" width="100" alt="Pull Shark" title="Pull Shark" />
-  <img src="https://raw.githubusercontent.com/Schweinepriester/github-profile-achievements/main/images/open-sourcerer-default.png" width="100" alt="Open Sourcerer" title="Open Sourcerer 🔮" />
-  <img src="https://raw.githubusercontent.com/Schweinepriester/github-profile-achievements/main/images/starstruck-default.png" width="100" alt="Starstruck" title="Starstruck" />
-  <img src="https://raw.githubusercontent.com/Schweinepriester/github-profile-achievements/main/images/galaxy-brain-default.png" width="100" alt="Galaxy Brain" title="Galaxy Brain" />
-  <img src="https://raw.githubusercontent.com/Schweinepriester/github-profile-achievements/main/images/quickdraw-default.png" width="100" alt="Quickdraw" title="Quickdraw" />
 </div>
 
 <!--------------------------------[ GitHub Chart ]----------------------------------->
